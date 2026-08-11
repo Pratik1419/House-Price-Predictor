@@ -144,7 +144,7 @@ house-price-predictor/
 **Pratik Mishra**
 - 📧 pratikmisha141@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/pratik-mishra)
-- 🐙 [GitHub](https://github.com/your-username)
+- 🐙 [GitHub](https://github.com/Pratik1419)
 
 ---
 
