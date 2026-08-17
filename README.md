@@ -6,7 +6,7 @@
 ![R2 Score](https://img.shields.io/badge/R²%20Score-97.24%25-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
-> A machine learning web app that predicts house prices using Linear Regression — built with Python, Scikit-learn, and deployed on Streamlit Cloud.
+> A machine learning web app that predicts house prices using Linear Regression built with Python, Scikit-learn, and deployed on Streamlit Cloud.
 
 🔗 **Live App:** [Click here to try it](https://house-price-predictor-calvd78saem5uzyujb6o6j.streamlit.app/)
 
